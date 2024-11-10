@@ -45,5 +45,3 @@ To run the scraper, simply execute the script in your Python environment. You ca
 ```bash
 python scraper.py
 ```
-
-![Uploading image.png…]()
