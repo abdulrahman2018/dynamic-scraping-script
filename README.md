@@ -1,5 +1,5 @@
 
-# Web Scraper for Extracting Blog Links
+# Dynamic Scraping Script![image](https://github.com/user-attachments/assets/963cc982-f133-422f-a66d-acbb784265b5)
 
 This project is a Python-based web scraping tool that extracts and lists blog-related links from a given website. The scraper uses `requests` and `BeautifulSoup` to fetch and parse the HTML content, filtering for blog links while avoiding duplicates.
 
